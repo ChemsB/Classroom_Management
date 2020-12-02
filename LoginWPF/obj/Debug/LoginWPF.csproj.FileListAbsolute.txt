@@ -1,0 +1,135 @@
+C:\Users\Alumne\source\repos\LoginWPF\bin\Debug\LoginWPF.exe.config
+C:\Users\Alumne\source\repos\LoginWPF\bin\Debug\LoginWPF.exe
+C:\Users\Alumne\source\repos\LoginWPF\bin\Debug\LoginWPF.pdb
+C:\Users\Alumne\source\repos\LoginWPF\obj\Debug\LoginWPF.csprojAssemblyReference.cache
+C:\Users\Alumne\source\repos\LoginWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Alumne\source\repos\LoginWPF\obj\Debug\App.g.cs
+C:\Users\Alumne\source\repos\LoginWPF\obj\Debug\LoginWPF_MarkupCompile.cache
+C:\Users\Alumne\source\repos\LoginWPF\obj\Debug\LoginWPF_MarkupCompile.lref
+C:\Users\Alumne\source\repos\LoginWPF\obj\Debug\MainWindow.baml
+C:\Users\Alumne\source\repos\LoginWPF\obj\Debug\LoginWPF.g.resources
+C:\Users\Alumne\source\repos\LoginWPF\obj\Debug\LoginWPF.Properties.Resources.resources
+C:\Users\Alumne\source\repos\LoginWPF\obj\Debug\LoginWPF.csproj.GenerateResource.cache
+C:\Users\Alumne\source\repos\LoginWPF\obj\Debug\LoginWPF.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\source\repos\LoginWPF\obj\Debug\LoginWPF.exe
+C:\Users\Alumne\source\repos\LoginWPF\obj\Debug\LoginWPF.pdb
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\LoginWPF.exe.config
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\LoginWPF.exe
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\LoginWPF.pdb
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\Controllers.dll
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\Models.dll
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\MySql.Data.dll
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\Google.Protobuf.dll
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\BouncyCastle.Crypto.dll
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\Ubiety.Dns.Core.dll
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\Renci.SshNet.dll
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\Controllers.pdb
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\Models.pdb
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\MySql.Data.xml
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\Google.Protobuf.xml
+D:\Susana\Exemple\Exemple\LoginWPF\bin\Debug\Renci.SshNet.xml
+D:\Susana\Exemple\Exemple\LoginWPF\obj\Debug\LoginWPF.csprojAssemblyReference.cache
+D:\Susana\Exemple\Exemple\LoginWPF\obj\Debug\MainWindow.g.cs
+D:\Susana\Exemple\Exemple\LoginWPF\obj\Debug\App.g.cs
+D:\Susana\Exemple\Exemple\LoginWPF\obj\Debug\LoginWPF_MarkupCompile.cache
+D:\Susana\Exemple\Exemple\LoginWPF\obj\Debug\LoginWPF_MarkupCompile.lref
+D:\Susana\Exemple\Exemple\LoginWPF\obj\Debug\MainWindow.baml
+D:\Susana\Exemple\Exemple\LoginWPF\obj\Debug\LoginWPF.g.resources
+D:\Susana\Exemple\Exemple\LoginWPF\obj\Debug\LoginWPF.Properties.Resources.resources
+D:\Susana\Exemple\Exemple\LoginWPF\obj\Debug\LoginWPF.csproj.GenerateResource.cache
+D:\Susana\Exemple\Exemple\LoginWPF\obj\Debug\LoginWPF.csproj.CoreCompileInputs.cache
+D:\Susana\Exemple\Exemple\LoginWPF\obj\Debug\LoginWPF.csproj.CopyComplete
+D:\Susana\Exemple\Exemple\LoginWPF\obj\Debug\LoginWPF.exe
+D:\Susana\Exemple\Exemple\LoginWPF\obj\Debug\LoginWPF.pdb
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\LoginWPF.exe.config
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\LoginWPF.exe
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\LoginWPF.pdb
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Controllers.dll
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Models.dll
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\MySql.Data.dll
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Google.Protobuf.dll
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Renci.SshNet.dll
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Controllers.pdb
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Models.pdb
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\MySql.Data.xml
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Google.Protobuf.xml
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Renci.SshNet.xml
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF.csprojAssemblyReference.cache
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\App.g.cs
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF_MarkupCompile.cache
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF_MarkupCompile.lref
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\MainWindow.baml
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF.g.resources
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF.Properties.Resources.resources
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF.csproj.GenerateResource.cache
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF.csproj.CopyComplete
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF.exe
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF.pdb
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\AdminPanel.g.cs
+C:\Users\Chems\Desktop\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\AdminPanel.baml
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\LoginWPF.exe.config
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\LoginWPF.exe
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\LoginWPF.pdb
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Controllers.dll
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Models.dll
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\MySql.Data.dll
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Google.Protobuf.dll
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Renci.SshNet.dll
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Controllers.pdb
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Models.pdb
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\MySql.Data.xml
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Google.Protobuf.xml
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\bin\Debug\Renci.SshNet.xml
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF.csprojAssemblyReference.cache
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\AdminPanel.g.cs
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\App.g.cs
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF_MarkupCompile.cache
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF_MarkupCompile.lref
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\AdminPanel.baml
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\MainWindow.baml
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF.g.resources
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF.Properties.Resources.resources
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF.csproj.GenerateResource.cache
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF.csproj.CopyComplete
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF.exe
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\LoginWPF.pdb
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\TeacherPanel.g.cs
+C:\Users\Chems\Desktop\En desarrollo\Ejemplo Visual Studio\Exemple\LoginWPF\obj\Debug\TeacherPanel.baml
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\LoginWPF.exe.config
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\LoginWPF.exe
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\LoginWPF.pdb
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\Controllers.dll
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\Models.dll
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\MySql.Data.dll
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\Google.Protobuf.dll
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\BouncyCastle.Crypto.dll
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\Ubiety.Dns.Core.dll
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\Renci.SshNet.dll
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\Controllers.pdb
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\Models.pdb
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\MySql.Data.xml
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\Google.Protobuf.xml
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\bin\Debug\Renci.SshNet.xml
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\LoginWPF.csprojAssemblyReference.cache
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\AdminPanel.g.cs
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\MainWindow.g.cs
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\TeacherPanel.g.cs
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\App.g.cs
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\LoginWPF_MarkupCompile.cache
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\LoginWPF_MarkupCompile.lref
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\AdminPanel.baml
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\MainWindow.baml
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\TeacherPanel.baml
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\LoginWPF.g.resources
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\LoginWPF.Properties.Resources.resources
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\LoginWPF.csproj.GenerateResource.cache
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\LoginWPF.csproj.CoreCompileInputs.cache
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\LoginWPF.csproj.CopyComplete
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\LoginWPF.exe
+G:\Chems\Proven2020\Interficies\EjercicioAula_Alex_Chems (2)\EjercicioAula_Alex_Chems\LoginWPF\obj\Debug\LoginWPF.pdb

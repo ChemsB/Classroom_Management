@@ -1,0 +1,79 @@
+﻿<Window x:Class="LoginWPF.TeacherPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoginWPF"
+        mc:Ignorable="d"
+        Title="TeacherPanel" Height="600" Width="1000">
+    <Grid Name="matrix">
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="70"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <TabControl Height="400" Grid.Row="0">
+
+            <TabItem Header="List Classrooms">
+                <ListView Name="tableClassRoom" BorderThickness="1" Margin="10,8,15,12" HorizontalAlignment="Center" Width="950">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="id" Width="30" DisplayMemberBinding="{Binding Path=Id}"></GridViewColumn>
+                            <GridViewColumn Header="name" Width="50" DisplayMemberBinding="{Binding Path=Name}"></GridViewColumn>
+                            <GridViewColumn Header="description" Width="860" DisplayMemberBinding="{Binding Path=Description}"></GridViewColumn>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </TabItem>
+
+            <TabItem Header="Book Classroom">
+
+                <StackPanel Orientation="Vertical">
+                    <ListView Height="250" Name="bookPan" BorderThickness="1" Margin="10,0,0,40" HorizontalAlignment="Center" Width="950" RenderTransformOrigin="0.492,0.551">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="id" Width="30" DisplayMemberBinding="{Binding Path=Id}"></GridViewColumn>
+                                <GridViewColumn Header="name" Width="60" DisplayMemberBinding="{Binding Path=Name}"></GridViewColumn>
+                                <GridViewColumn Header="day" Width="250" DisplayMemberBinding="{Binding Path=Day}"></GridViewColumn>
+                                <GridViewColumn Header="hours" Width="250" DisplayMemberBinding="{Binding Path=Hours}"></GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="25" Name="buttonClasses">
+                        
+                    </StackPanel>
+
+                    <DatePicker Width="200" Name="datePicker" >
+
+                    </DatePicker>
+
+
+                    <Button Height="20" Click="bookingClass" Margin="0,10,0,0" Width="100">Booking</Button>
+                </StackPanel>
+
+            </TabItem>
+
+            <TabItem Header="Reserved">
+
+                <ListView Height="250" Name="reservePan" BorderThickness="1" Margin="10,0,0,40" HorizontalAlignment="Center" Width="950" RenderTransformOrigin="0.492,0.551">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Id" Width="60" DisplayMemberBinding="{Binding Path=IdBooking}"></GridViewColumn>
+                            <GridViewColumn Header="User Name" Width="150" DisplayMemberBinding="{Binding Path=UserName}"></GridViewColumn>
+                            <GridViewColumn Header="User Email" Width="200" DisplayMemberBinding="{Binding Path=UserEmail}"></GridViewColumn>
+                            <GridViewColumn Header="Class Name" Width="90" DisplayMemberBinding="{Binding Path=ClassName}"></GridViewColumn>
+                            <GridViewColumn Header="day" Width="160" DisplayMemberBinding="{Binding Path=Day}"></GridViewColumn>
+                            <GridViewColumn Header="hours" Width="260" DisplayMemberBinding="{Binding Path=Hours}"></GridViewColumn>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+
+
+            </TabItem>
+
+        </TabControl>
+        
+    </Grid>
+</Window>

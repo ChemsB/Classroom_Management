@@ -1,0 +1,112 @@
+﻿<Window x:Class="LoginWPF.AdminPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoginWPF"
+        mc:Ignorable="d"
+        Title="AdminPanel" Height="500" Width="800">
+
+
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="70"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <TabControl Height="400" Grid.Row="0">
+            <TabItem Header="Insert User">
+                <StackPanel VerticalAlignment="Center">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+                        <Label>User Name:</Label>
+                        <TextBox Name="initName" Width="100" Margin="20,0,0,0"></TextBox>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+                        <Label>Password:</Label>
+                        <TextBox Name="initPass" Width="100" Margin="29,0,0,0"></TextBox>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+                        <Label>Rol:</Label>
+                        <TextBox Name="initRol" Width="100" Margin="63,0,0,0"></TextBox>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+                        <Label>Email:</Label>
+                        <TextBox Name="initEmail" Width="100" Margin="50,0,0,0"></TextBox>
+                    </StackPanel>
+
+                    <Button Click="addNewUser" Height="30" Width="60" Margin="400,20,0,0">Add User</Button>
+
+
+                </StackPanel>
+
+
+            </TabItem>
+            <TabItem Header="List all users">
+
+                <ListView Name="dataTable" BorderThickness="1" Margin="10,8,15,12" HorizontalAlignment="Center" Width="700">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Username" Width="175" DisplayMemberBinding="{Binding Path=Username}"></GridViewColumn>
+                            <GridViewColumn Header="Password" Width="175" DisplayMemberBinding="{Binding Path=Password}"></GridViewColumn>
+                            <GridViewColumn Header="Rol" Width="175" DisplayMemberBinding="{Binding Path=Rol}"></GridViewColumn>
+                            <GridViewColumn Header="Email" Width="175" DisplayMemberBinding="{Binding Path=Email}"></GridViewColumn>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </TabItem>
+            <TabItem Header="Modify User" Height="23" VerticalAlignment="Top">
+
+                <StackPanel Orientation="Vertical" >
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+                        <Label Margin="0,0,30,0">Name user:</Label>
+                        <TextBox Width="200" Name="initFind"></TextBox>
+                        <Button Width="100" Margin="20,0,0,0" Click="FindUserToModify">Find User</Button>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Vertical" Margin="0,20,0,0">
+
+                        <GroupBox Name="modifyBox" Height="200" Header="Modify User" IsEnabled="False">
+                            <StackPanel Orientation="Vertical">
+                                <StackPanel Orientation="Vertical" Margin="0,10,0,0">
+                                    <Label Width="200">New Password</Label>
+                                    <TextBox Name="initNewPass" Width="200"></TextBox>
+                                </StackPanel>
+
+                                <StackPanel Orientation="Vertical" Margin="0,10,0,0">
+                                    <Label Width="200">New Email</Label>
+                                    <TextBox Name="initNewEmail" Width="200"></TextBox>
+                                </StackPanel>
+
+                                <StackPanel Orientation="Horizontal">
+                                    <Button Width="100" Margin="100,20,0,0" Click="removeUser">Delete User</Button>
+                                    <Button Width="100" Margin="400,20,0,0" Click="modifyButtonUser">Modify Data</Button>
+                                    
+                                </StackPanel>
+                                
+                            </StackPanel>
+
+
+
+
+                        </GroupBox>
+
+
+                    </StackPanel>
+
+
+                </StackPanel>
+
+            </TabItem>
+
+        </TabControl>
+
+
+        <Button Grid.Row="1" Height="30" Width="60" Margin="700,0,0,0" Click="exitApp">Exit</Button>
+
+    </Grid>
+</Window>
