@@ -4,5 +4,5 @@ Esta aplicación la he llevado a cabo para mejorar mis skills en WPF, se trata d
 
 Los usuarios pueden ser: Profesores o Administradores.
 
-Los profesores pueden ver un listado de aulas con sus caracteristicas y reservar la que más le interese.
+Los profesores pueden ver un listado de aulas con sus características y reservar la que más le interese.
 Los Administradores pueden añadir modificar o eliminar profesores para así gestionar los usuarios.
